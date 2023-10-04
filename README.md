@@ -1,6 +1,7 @@
 # EmployeeAddress-management
 
 A Spring-boot project.Project manage Employee and Address.
+Showing one to one mapping.
 
 ## tools
 ### Framework
@@ -10,7 +11,7 @@ intelliJ IDEA MySQL
 Spring web, Validation, JPA, MySQL , lombok
 
 ## entities
-###Employee
+### Employee
 * empId
 * emFirstName
 * emLastName
